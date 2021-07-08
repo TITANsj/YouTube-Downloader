@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+h3{
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+input{
+  margin: 50px;
+}
